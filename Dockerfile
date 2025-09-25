@@ -22,4 +22,4 @@ EXPOSE $PORT
 ENV PORT=5000
 
 # Comando para ejecutar migraciones y luego Gunicorn
-CMD ["gunicorn", "--bind", "0.0.0.0:$PORT", "carta_navidad:create_app()"]
+CMD gunicorn --bind 0.0.0.0:$PORT carta_navidad:create_app()
