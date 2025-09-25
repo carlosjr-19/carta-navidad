@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Cartas Navideñas{% endblock %}</title>
+    
+    <!-- Google Fonts - Christmas Typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/base.css') }}" rel="stylesheet" /> 
+    {% block extra_styles %}{% endblock %}
+</head>
+<body>
+    <!-- Flash Messages -->
+    <div class="flash-messages">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="flash-message flash-{{ 'success' if category == 'success' else 'error' }}">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+    </div>
+
+    {% block content %}{% endblock %}
+
+    <!-- Snowfall Animation Script -->
+    <script>
+        // Create snowfall effect
+        function createSnowfall() {
+            const snowfallContainer = document.querySelector('.snowfall');
+            if (!snowfallContainer) return;
+
+            for (let i = 0; i < 50; i++) {
+                const snowflake = document.createElement('div');
+                snowflake.className = 'snowflake';
+                snowflake.innerHTML = '❄';
+                snowflake.style.left = Math.random() * 100 + '%';
+                snowflake.style.top = Math.random() * 100 + '%';
+                snowflake.style.animationDelay = Math.random() * 2 + 's';
+                snowflake.style.animationDuration = (3 + Math.random() * 5) + 's';
+                snowfallContainer.appendChild(snowflake);
+            }
+        }
+
+        // Auto-hide flash messages
+        function hideFlashMessages() {
+            const flashMessages = document.querySelectorAll('.flash-message');
+            flashMessages.forEach(message => {
+                setTimeout(() => {
+                    message.style.animation = 'slideIn 0.3s ease reverse';
+                    setTimeout(() => {
+                        message.remove();
+                    }, 300);
+                }, 3000);
+            });
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            createSnowfall();
+            hideFlashMessages();
+        });
+    </script>
+
+    {% block extra_scripts %}{% endblock %}
+</body>
+</html>

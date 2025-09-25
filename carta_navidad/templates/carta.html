@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block title %}{{ carta.titulo }} - Carta Navideña{% endblock %}
+
+{% block extra_styles %}
+<link href="{{ url_for('static', filename='css/carta.css') }}" rel="stylesheet" /> 
+{% endblock %}
+
+{% block content %}
+<div class="christmas-bg" style="background-image: url('{{ carta.imagen_fondo }}?q=80&w=2070');">
+    <!-- Background Overlays -->
+    <div class="christmas-overlay theme-{{ carta.color_tema }}"></div>
+    <div class="christmas-overlay-2"></div>
+    
+    <!-- Snowfall Effect -->
+    <div class="snowfall"></div>
+
+    <!-- Main Content -->
+    <div class="carta-content" style="position: relative; z-index: 10;">
+        <!-- Back Button -->
+        <a href="{{ url_for('index') }}" class="back-button">
+            <span>←</span>
+            Volver al inicio
+        </a>
+
+        <!-- Carta Header -->
+        <div class="carta-header">
+            <div style="display: flex; justify-content: center; align-items: center; gap: 0.5rem; margin-bottom: 1rem;">
+                <span class="accent-{{ carta.color_tema }}" style="font-size: 1.5rem;">⭐</span>
+                <span class="accent-{{ 'red' if carta.color_tema != 'red' else 'green' }}" style="font-size: 2rem;">❤</span>
+                <span class="accent-{{ carta.color_tema }}" style="font-size: 1.5rem;">⭐</span>
+            </div>
+            
+            <h1 class="carta-title">{{ carta.titulo }}</h1>
+        </div>
+
+        <!-- Carta Content -->
+        <div class="carta-card">
+            <div class="carta-text">{{ carta.contenido }}</div>
+
+            <div class="carta-image-container">
+                <img src="{{ carta.imagen_carta }}" alt="Imagen de la carta" class="carta-image" />
+            </div>
+            
+            <!-- Signature -->
+            <div class="carta-signature">
+                <div class="signature-text">
+                    <span style="color: #ef4444;">🎁</span>
+                    <span>¡Feliz Navidad {{ carta.destinatario }}!</span>
+                    <span style="color: #22c55e;">🎁</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Decorations -->
+        <div class="decorations" style="margin-top: 2rem;">
+            <div class="decoration" style="font-size: 2rem;">🎄</div>
+            <div class="decoration" style="font-size: 2rem;">🎁</div>
+            <div class="decoration" style="font-size: 2rem;">⭐</div>
+            <div class="decoration" style="font-size: 2rem;">🎄</div>
+            <div class="decoration" style="font-size: 2rem;">🎁</div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    // Enhanced carta animations
+    document.addEventListener('DOMContentLoaded', function() {
+        // Animate carta card entrance
+        const cartaCard = document.querySelector('.carta-card');
+        if (cartaCard) {
+            cartaCard.style.opacity = '0';
+            cartaCard.style.transform = 'translateY(20px)';
+            
+            setTimeout(() => {
+                cartaCard.style.transition = 'all 0.8s ease';
+                cartaCard.style.opacity = '1';
+                cartaCard.style.transform = 'translateY(0)';
+            }, 300);
+        }
+    });
+</script>
+{% endblock %}
