@@ -17,9 +17,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copiar todo el código fuente al contenedor
 COPY . .
 
-# Exponer el puerto que usará la app (Railway usa $PORT)
-EXPOSE $PORT
+# Exponer puerto
+EXPOSE 5000
 ENV PORT=5000
 
-# Comando para ejecutar migraciones y luego Gunicorn
-CMD gunicorn --bind 0.0.0.0:$PORT carta_navidad:create_app()
+# Comando para ejecutar Gunicorn con la app
+CMD ["sh", "-c", "gunicorn --bind 0.0.0.0:$PORT carta_navidad:create_app --factory"]
