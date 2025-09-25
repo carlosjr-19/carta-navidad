@@ -22,4 +22,5 @@ EXPOSE 5000
 ENV PORT=5000
 
 # Comando para ejecutar Gunicorn con la app
-CMD ["sh", "-c", "gunicorn --bind 0.0.0.0:$PORT carta_navidad:create_app"]
+CMD ["sh", "-c", "gunicorn --bind 0.0.0.0:$PORT 'carta_navidad:create_app()'"]
+
