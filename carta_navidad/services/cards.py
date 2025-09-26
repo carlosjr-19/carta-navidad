@@ -2,23 +2,25 @@
 # Formato de clave: "{nombre_minuscula}_{fecha}"
 
 CARTAS_FAMILIARES = {
-    "ana_1990-03-25": {
+    "elvia_1942-05-02": {
         "carta_id": "carta1",
-        "destinatario": "Tía Ana",
-        "fecha_nacimiento": "1990-03-25",
-        "titulo": "Para mi querida Ana",
-        "contenido": """Querida Ana,
+        "destinatario": "Abuelita Elvia",
+        "fecha_nacimiento": "1942-05-02",
+        "titulo": "Abuelita Elvia",
+        "contenido": """Querida Abuelita,
 
-En esta época tan especial del año, quiero tomarme un momento para decirte lo importante que eres en nuestra familia. Tu presencia ilumina cada reunión navideña con tu sonrisa tan genuina y tu corazón tan generoso.
+En esta época tan especial del año, quiero tomarme un momento para decirte lo importante y sabia que eres en nuestras vidas. Siempre con un consejo y palabras cargadas de un profundo amor, sus bendiciones, oraciones y bondades han sido un faro de luz para todos nosotros.
 
-Recuerdo cuando eras pequeña y te emocionabas tanto al ver los regalos bajo el árbol, pero lo que más me llenaba de orgullo era verte compartir tu alegría con todos nosotros. Esa misma bondad la sigues teniendo hoy.
+En este año que pude compartir con usted, agradezco por todos sus consejos, enseñanzas y cuidados mientras compartiamos casa. Aquellas tardes de almuerzo donde podiamos conversar y reir, son momentos que atesoro profundamente.
 
-Esta Navidad, deseo que todos tus sueños se hagan realidad y que el próximo año esté lleno de bendiciones, amor y momentos hermosos junto a quienes más te queremos.
+Espero que siempre como muchas veces en México le han comentado, siga viendose tan juvial y llena de vida. con sus cabellos blancos que reflejan la sabiduría de sus años y su sonrisa que ilumina cualquier habitación. Sin olvidar sus extravagantes atuendos.
 
-Con todo mi amor navideño,
-Tu familia que te adora ❤️""",
+Espero que esta Navidad esté llena de alegría, amor y momentos inolvidables junto a todos nosotros. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones y salud.
+
+Con todo mi cariño navideño,
+Como siempre me nombre Carlitos Manuel ❤️""",
         "imagen_fondo": "https://images.unsplash.com/photo-1700668497475-1e0ce91919c5",
-        "imagen_carta": "https://scontent.fmex1-4.fna.fbcdn.net/v/t39.30808-6/487561936_1746861406229325_1958791339110064750_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9eae26&_nc_ohc=rRgoH85O9vEQ7kNvwEQbATM&_nc_oc=AdmGSWR9xs49Iv6GR-y3xGeUTKRnYMHX7jf8YtVZaPxeK4ogEO9Sl8KAKDiq24aczp2Td1aAk3f4Kk-jpouXJ2n3&_nc_zt=23&_nc_ht=scontent.fmex1-4.fna&_nc_gid=nQAo-GSHVNqYabx6C8BPSA&oh=00_AfZ9Y106Qt8tf6iVfV1ifBiYqf-n3lD8p94D6PNfz7fgOA&oe=68DB6FEE",
+        "imagen_carta": "https://i.postimg.cc/zDpX46yx/abuela-elvia.jpg",
         "color_tema": "red"
     },
     "maria_1995-12-15": {
