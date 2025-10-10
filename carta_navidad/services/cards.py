@@ -167,6 +167,7 @@ CARTAS_FAMILIARES = {
         "imagen_carta": "https://i.postimg.cc/KYwJtNkH/Tia-ana.jpg",
         "color_tema": "gold"
     },
+
     "eliecer_1963-09-22": {
         "carta_id": "carta9",
         "destinatario": "Tío Eliecer",
@@ -185,7 +186,111 @@ CARTAS_FAMILIARES = {
         "imagen_fondo": "https://images.unsplash.com/photo-1638743264427-42b1399c0730",
         "imagen_carta": "https://i.postimg.cc/tJ1CZ960/Tio-marco-eliecer.jpg",
         "color_tema": "gold"
-    }
+    },
+    
+    "marian_1980-07-18": {
+        "carta_id": "carta10",
+        "destinatario": "Tía Marian",
+        "fecha_nacimiento": "1980-07-18",
+        "titulo": "Querida Tía Marian",
+        "contenido": """Querida Tía Marian,
+
+        Algo que siempre la ha caracterizado es su energía y entusiasmo. Siempre ha sido una persona llena de vida, aventurera, capaz, fuerte y con su risa que es capaz de contagiar a todos a su alrededor.
+
+        Siempre la recuerdo como mi tía mas alcahueta, por todas las veces que nos cubría de hacer cosas, tanto a mí como a mis primos. Cuando rompía cosas y se hechaba la culpa para que no me regañaran.
+
+        Tambien cuando nos llevo a Nathy y a mí a al zoologico de contacto y alimentabamos a los animales, donde un ganso más grande que yo terminó persiguiendome por todo el parque. Aún así fue una experiencia inolvidable.
+
+        Las únicas veces que me presto el "pupy" solo para estacionarlo y termine estrellandolo en el estacionamiento de casa de la abuela contra la reja (Aúnque fue poquito, ni se notaba). 
+
+        La última vez que visite nuestro país y nos llevo a la playa, donde estuvimos hablando toda la noche y madrugada junto con Daniel y ya despues no valia ni medio dormido todo el camino.
+        
+        Recuerdo con mucha alegría todas las veces que hemos compartido en familia, de las risas, las aventuras y las historias que compartimos son recuerdos que nunca olvidaré.
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones y salud.
+
+        Le mando un fuerte abrazo Tía Marian, La amo mucho, Feliz Navidad y prospero Año nuevo🎅.
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1545024602-5ac8042e0bc5",
+        "imagen_carta": "https://i.postimg.cc/J0565Lny/Tia-Marian.jpg",
+        "color_tema": "gold"
+    },
+    
+    "elvia_1972-03-03": {
+        "carta_id": "carta11",
+        "destinatario": "Tía Adriana",
+        "fecha_nacimiento": "1972-03-03",
+        "titulo": "Querido Tía Adriana",
+        "contenido": """Querida Tía Adriana,
+
+        Mi tía madrina, quisiera comenzar esta carta expresándole lo mucho que la aprecio y valoro. Siempre he admirado su fortaleza, su dedicación, su compromiso, su sabiduría, su gratitud, entre otras cosas. Es una increible persona y un ejemplo a seguir.
+
+        Recuerdo cuando ya estaba en la época de salir de bachiderato, y me preguntaban que quería estudiar en la universidad al principio decía que quería ser ingeniero electrónico como mi papá, Pero cuando veía todos los viajes que hacía usted por su trabajo, y las experiencias que contaba en algunos de los países que visitaba, cambié lo que decía. Quería estudiar Ingenieria Electronica pero ahora como mí tía Adríana y viajar por el mundo. Una anecdota que recuerdo con risa y cariño. Y hasta mi papá lo recuerda con una sonrisa en el rostro. 
+        
+        Cada reunión en su casa ya sea en Caracas o Higuerote y ahora incluso aquí en Costa Rica siempre ha sido especial, llena de risas, historias y momentos inolvidables. Su calidez y generosidad siempre ha sido un refugio para todos nosotros en la familia.
+
+        Agradezco profundamente su apoyo incondicional en cada etapa de mi vida. Siempre ha estado ahí para ofrecerme su consejo, su guía y su amor, y por eso estaré eternamente agradecido.
+
+        En esta Navidad, quiero desearle todo lo mejor. Que la magia de esta temporada llene su hogar de alegría, amor y momentos inolvidables junto a todos sus seres queridos. Que el próximo año esté colmado de bendiciones, salud, felicidad y abundancia.
+
+        La quiero mucho Tía Adriana, Feliz Navidad 🎅.
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1543590171-c63f78d54a7e",
+        "imagen_carta": "https://i.postimg.cc/RhLsLBFH/Tia-adrianna.jpg",
+        "color_tema": "gold"
+    },
+
+    "ivonne_1970-11-20": {
+        "carta_id": "carta12",
+        "destinatario": "Tía Ivonne",
+        "fecha_nacimiento": "1970-11-20",
+        "titulo": "Querida Tía Ivonne",
+        "contenido": """Querida Tía Ivonne,
+
+        Indudablemente es la más extrovertida de todos en la familia, siempre con una sonrisa y alguna broma para alegrar el día. Su energía y entusiasmo que al día creo que los únicos que pueden igualarla son Daniel Arturo y mí tío Jose Daniel. Aúnque eso no creo que este comprobado científicamente.
+
+        Recuerdo todas las veces que de pequeño me hacía chistes que yo no entendía y lo que hacía era molestarme y hasta llorar. Pero ahora que lo pienso, era su manera de intentar conectar conmigo y hacerme reír. Y aunque no lo lograba en ese momento, ahora puedo verlo con humor y cariño. De hecho gracias a eso ya Daniel Arturo y Cesar cuando pueden me dicen "Cunay". Y es imposible no recordar esa época en la cual usted me decía usted así, sin sonreir.
+
+        Tambien el tiempo en que fuimos Roomies, secuestraba al Cochocho de Putumayo y le daba de comer aunque le dijeramos que no. Pero todos sabemos que donde quiera que este Lunita siempre la recordará por ser la tía que más la consentia.
+
+        Recuerdo con mucho cariño todas las veces que hemos compartido en familia, de las risas, las aventuras y las historias que compartimos, salidas a las playas, la gran sábana, Coro, las aguas de moíses, ahora aquí en México Acapulco, las grutas de Tolantongo. Son recuerdos que nunca olvidare y seguire creando más.
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia.
+
+        La quiero mucho Tía Ivonne, Feliz Navidad🎅
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1546813647-30583402ddd7",
+        "imagen_carta": "https://i.postimg.cc/VvWGW86b/Tia-Ivonne.jpg",
+        "color_tema": "gold"
+    },
+
+    "jose_1969-09-09": {
+        "carta_id": "carta13",
+        "destinatario": "Tío Jose Daniel",
+        "fecha_nacimiento": "1969-09-09",
+        "titulo": "Querido Tío Jose Daniel",
+        "contenido": """Querido Tío Jose Daniel,
+
+        Hay algo que cada vez que lo veo, lo escucho, lo leo se me viene a la mente y es su frase icónica "Mi Negro Querido". Esa frase que ha dicho en tantas ocasiones y que siempre me hace sonreir y sentir tan querido. Se que es su forma de llamar a sus sobrinos, nietos, hijos. Pero con su tono tan particular algo que me encanta. De hecho ya debería patentar esa frase para que solo usted la pueda usar.
+
+        En mi infancia recuerdo esta época con mucho cariño. Porque era quien siempre llevaba los fuegos artificiales, una de mis partes favoritas de navidad compartiendo junto a usted y mis primos Daniel Y Cesar.
+
+        Que por cierto recuerdo cada vez que me quedaba en su casa para quedarme con mis primos. Me enseñaba a comer de todo, puedo decir que ahora gracias a eso aprendí a comer cosas que antes no. Una de ellas fue el diablito.
+
+        Tambien como olvidar todas sus locuras cada vez que compartimos en familia, los carnavales en Higuerote, las navidades, los cumpleaños. 
+
+        Gracias Tío, por ser una persona que siempre nos hace felices a los que estamos a su alrededor. Su sentido del humor, su alegría y su amor por la vida son contagiosos y hacen que cada momento compartido sea especial.
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia.
+
+        Lo quiero mucho Tío Jose Daniel, Mi negro querido, Feliz Navidad🎅
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/mkyXysD1/Tio-Jose-Daniel.jpg",
+        "color_tema": "gold"
+    },
+
 }
 
 """Eres el hermano, el hijo, el tío que todos admiramos. Tu capacidad para resolver cualquier problema y tu forma de hacer reír a todos, incluso en los momentos difíciles, es un regalo que valoramos más que cualquier cosa material.
