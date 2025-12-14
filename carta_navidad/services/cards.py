@@ -522,9 +522,9 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "genarito_1993-07-23": {
+    "genaro_1993-07-23": {
         "carta_id": "carta24",
-        "destinatario": "Genarito",
+        "destinatario": "Genaro",
         "fecha_nacimiento": "1993-07-23",
         "titulo": "Querido Genarito",
         "contenido": """Querido Genarito,
@@ -658,7 +658,7 @@ CARTAS_FAMILIARES = {
     "oswaldo_2013-05-10": {
         "carta_id": "carta30",
         "destinatario": "Oswaldo",
-        "fecha_nacimiento": "2011-05-10",
+        "fecha_nacimiento": "2013-05-10",
         "titulo": "Querido Kike",
         "contenido": """Querido primo Kike,
 
@@ -678,7 +678,7 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "Emiliano_2003-09-13": {
+    "emiliano_2003-09-13": {
         "carta_id": "carta31",
         "destinatario": "Emiliano",
         "fecha_nacimiento": "2003-09-13",
@@ -699,7 +699,7 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "Daniel_1996-10-31": {
+    "daniel_1996-10-31": {
         "carta_id": "carta32",
         "destinatario": "Daniel",
         "fecha_nacimiento": "1996-10-31",
@@ -728,7 +728,7 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "Cesar_1998-01-08": {
+    "cesar_1998-01-08": {
         "carta_id": "carta33",
         "destinatario": "Cesar",
         "fecha_nacimiento": "1998-01-08",
@@ -757,18 +757,55 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "Nathaly_2002-05-26": {
+    "nathaly_2002-05-26": {
         "carta_id": "carta34",
         "destinatario": "Nathaly",
         "fecha_nacimiento": "2002-05-26",
         "titulo": "Querida Nathy",
         "contenido": """Querida Nathy,
 
+        Mi hermana querida, la niña de la familia que siempre ha sido un torbellino de energía y alegría. Desde que eras pequeña, siempre has tenido una personalidad vibrante y única que ilumina cualquier lugar al que vas. Tu espíritu libre y tu pasión por la vida te hacen alguien especial.
         
+        Siempre has sido una persona que no teme ser auténtica y seguir su propio camino, incluso cuando eso significa ir en contra de las expectativas de los demás.
 
+        Estoy profundamente orgulloso de la mujer en la que te has convertido. Eres una persona fuerte, valiente y llena de determinación. Tu dedicación a tus proyectos y tu pasión por querer mejorar cada día son cualidades que admiro de tí.
+
+        Todo lo que construyes a tu alrededor, desde tus relaciones personales hasta tus proyectos profesionales, refleja tu autenticidad y tu deseo de vivir una vida plena y significativa.
+
+        Me siento tan afortunado de tenerte como mi hermana. Eres esa persona con la que puedo contar en cualquier momento, alguien que siempre está ahí para apoyarme y animarme a seguir adelante. Aúnque si cuento contigo para un almuerzo o cena sabrosa solo lo debo esperar 1 vez por semana jejeje. 
+
+        Aún así quiero que sepas que te amo mucho y que siempre estaré aquí para ti, sin importar las circunstancias. Eres una parte fundamental de mi vida y de mi corazón. Quiero que sigas creciendo y explorando el mundo a tu manera, sin miedo a ser tú misma.
+
+        En esta Navidad, quiero desearte todo lo mejor que la vida pueda ofrecerte. Que aúnque no este contigo esta navidad sientas todo el amor y la calidez de nuestra familia. Que esta temporada esté llena de alegría, amor y momentos inolvidables junto a nuestros seres queridos. Que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia. Amén, amén y amén
+
+        Posdata: Tu regalo es el #3. Feliz Navidad 🎁.
         """,
         "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
-        "imagen_carta": "https://i.postimg.cc/pdG2tnpt/Cesar.jpg",
+        "imagen_carta": "https://i.postimg.cc/8c0S28cg/nathaly.jpg",
+        "color_tema": "gold"
+    },
+
+    "emmely_1999-12-29": {
+        "carta_id": "carta35",
+        "destinatario": "Emmely",
+        "fecha_nacimiento": "1999-12-29",
+        "titulo": "Querida Zelena",
+        "contenido": """Querida Zelena,
+
+        Mi mejor amiga, mi confidente, mi amore, mi vampirita. Podría comenzar esta carta con el cliche de "desde que te conocí supe que seriamos amigos para siempre". Pero la verdad es que ha medida que te he ido conociendo más y más, me doy cuenta de lo afortunado que soy de tenerte en mi vida.
+
+        Mucha gente ha pasado por mi vida, pero solo pocas personas han dejado una huella imborrable en mi corazón. Tú eres una de esas personas especiales que ha tocado mi vida de una manera profunda y significativa.
+
+        Eres una persona increíble, llena de cualidades y virtudes. Tu dedicación, tu pasión por lo que haces y tu amor por la vida son solo algunas de las cosas que te hacen especial. La labor que haces en ayudar a las personas es admirable y digna de respeto. 
+
+        Se que eres y seguiras creciendo profesionalmente y personalmente. Y estoy seguro de que lograrás todo lo que te propongas en la vida. Porque así eres tú, una persona determinada y perseverante.
+
+        Quiero agradecerte por ser parte de mi vida y por hacerla más feliz. Eres una persona que ilumina el mundo con tu presencia y de las que ya quedan pocas. En esta Navidad, quiero desearte todo lo mejor que la vida pueda ofrecerte. Que esta temporada esté llena de alegría, amor y momentos inolvidables junto a tus seres queridos. Que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia. Mandale y extiendele un abrazo a tu mamí, a Dani y a Kysler de mi parte.
+
+        Te amo mucho amore 🎁, Feliz navidad!!!
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/zvBLw16h/zelena.jpg",
         "color_tema": "gold"
     },
 }
