@@ -233,6 +233,8 @@ CARTAS_FAMILIARES = {
 
         En esta Navidad, quiero desearle todo lo mejor. Que la magia de esta temporada llene su hogar de alegría, amor y momentos inolvidables junto a todos sus seres queridos. Que el próximo año esté colmado de bendiciones, salud, felicidad y abundancia.
 
+        Quizas lea esta carta, cuando aún este allí en Costa Rica, aúnque sino es así quiero que sepa que la quiero mucho y la llevo siempre en mi corazón. Caso contrario busqueme directamente para volverla a abrazar.  
+
         La quiero mucho Tía Adriana, Feliz Navidad 🎅.
 
         """,
@@ -291,6 +293,484 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
+    "lorena_1974-12-08": {
+        "carta_id": "carta14",
+        "destinatario": "Tía Lorena",
+        "fecha_nacimiento": "1974-12-08",
+        "titulo": "Querida Tía Lorena",
+        "contenido": """Querida Tía lorena,
+
+        Con una sonrisa de oreja a oreja, alegre, feliz, amorosa, cariñosa, así es como siempre la recuerdo.
+
+        Desde pequeño siempre ha sido una persona que me ha escuchado, aconsejado y llenado de mucho cariño.
+
+        El último rencuentro en Madrid fue tan especial, volver a compartir como lo haciamos por ley en estas épocas navideñas en el Zulia. Esa vez lejos de nuestras tierras. Pero con el cariño y amor intacto. 
+
+        Le agradezco por todo su afecto, por cada rincon que me enseñó de ahora su páis adoptivo, por cada historia que compartió conmigo, y por las que estan por venir. 
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia. Siempre junto a sus seres queridos
+
+        La quiero mucho Tía Lorena, Feliz Navidad 🎅.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/x8g0KB7B/tia-lorena.jpg",
+        "color_tema": "gold"
+    },
+
+    "jesus_1954-04-08": {
+        "carta_id": "carta15",
+        "destinatario": "Tío Jesús",
+        "fecha_nacimiento": "1954-04-08",
+        "titulo": "Querida Tío Jesús",
+        "contenido": """Querido Tío Jesús,
+
+        Agradezco por todas las veces que me brindo cobijo en su casa, por tantos momentos compartidos en familia, las risas, los viajes y las historias que compartimos Tío.
+
+        Quiero desearle una Feliz Navidad, rodeado de seres queridos, con mucha salud, tranquilidad y prosperidad. Que asímismo sea este año nuevo y todos los que estan por venir. Lo quiero tío.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/fy5wx1Fp/tio-jesus.jpg",
+        "color_tema": "gold"
+    },
+
+    "adoracion_1969-09-09": {
+        "carta_id": "carta16",
+        "destinatario": "Tía Adoración",
+        "fecha_nacimiento": "1969-09-09",
+        "titulo": "Querida Tía Adoración",
+        "contenido": """Querida Tía Adoración,
+
+        Quisiera comenzar esta carta expresándole lo mucho que la aprecio y valoro. Siempre he admirado su fortaleza, su dedicación, su compromiso, su sabiduría entre otras cosas. Es una increible persona y un ejemplo a seguir.
+
+        Recuerdo con mucho cariño todas las veces que hemos compartido en familia, de las risas, las aventuras y las historias que compartimos son recuerdos que nunca olvidaré.
+
+        Cada momento, viaje y anecdota que hemos compartido desde la gran sábana, hasta Gran Vía. Siendo esta última la más reciente y nostalgica. Por volver a compartir en familia, un reencuentro especial.
+
+        Gracias por siempre recibirme donde quiere que este con los brazos abiertos y brindarme su apoyo
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones y salud.
+
+        Le mando un fuerte abrazo Tía Adoración, La quiero mucho, Feliz Navidad y prospero Año nuevo🎅.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/c1c4y8H4/tia-adoracion.jpg",
+        "color_tema": "gold"
+    },
+
+    "liliani_1967-02-20": {
+        "carta_id": "carta17",
+        "destinatario": "Tía Liliani",
+        "fecha_nacimiento": "1967-02-20",
+        "titulo": "Querida Tía Liliani",
+        "contenido": """Querida Tía Liliani,
+
+        En esta navidad quiero expresarle lo mucho que la quiero y aprecio. Desde muy pequeño me abrío las puertas de su hogar, brindándome su cariño y atención en cada visita que hacía a su casa, siempre junto con mis primos. Que realmente crecimos tan unidos que todos nos consideramos hermanos.
+
+        Gracias por las veces que me cuidó cuando salía de clases y estudiaba en palo negro, fue un periodo corto. Pero era mi parte favorita del día quedarme con usted y compartir con mis primos. 
+
+        Sin olvidar nunca el arte culinaria que posee. Como siempre se lo he mencionado a cesar. Usted tiene el Don y la Magia de que todo lo que cocina le queda espectacular. Y comidas que hasta yo decía que no me gustaban en sus manos era increible como hacía que cambiara de opinión
+
+        Me alegró tanto volver a verla nuevamente la penultima vez que estuve en Venezuela, (Porque para ir para mi país no diré última vez) Regresar nuevamente a su casa, donde tantos recuerdos me trajó, así como tambien mucha nostalgia.
+
+        Quiero y deseo que pase una Feliz Navidad, rodeada de seres queridos, con mucha salud, tranquilidad y prosperidad. Que asímismo sea este año nuevo y todos los que estan por venir. La quiero mucho tía. 
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/Px74NVTX/tio-oswaldo.jpg",
+        "color_tema": "gold"
+    },
+
+    "oswaldo_1960-09-09": {
+        "carta_id": "carta18",
+        "destinatario": "Tío Oswaldo",
+        "fecha_nacimiento": "1969-09-09",
+        "titulo": "Querido Tío Oswaldo",
+        "contenido": """Querido Tío Oswaldo,
+
+        Desde pequeño cuando iba a su casa en Caracas, siempre recuerdo el cuarto de videojuegos, junto con los trofeos de futbol que tenía en la habitación y me decía a mi mismo "Quiero conseguir tantos trofeos de futbol como tío" y luego venir a relajarme a jugar videojuegos como lo hace el.
+
+        Hoy en día puedo decir que he conseguido un poco de eso, cada vez que que gano un trofeo ya pienso en usted y digo uno más para la colección. Como los tenía mi tío Oswaldo. 
+
+        Cada navidad cuando junto con mis primos toda la noche era jugar Fifa a ver quien era el mejor. Pero realmente el mejor era el que pudiera vencerlo. Usted fue ese Jefe final para nosotros Daniel, Cesar y yo.
+        
+        Recuerdo cada Navidad en Caracas, los carnavales en Higuerote, las risas, las aventuras, los viajes y las historias que compartimos son recuerdos que nunca olvidaré.
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia 🎅.
+
+        No se si lea esto cuando este a su lado o tiempo despues. Pero quiero que sepa que lo quiero mucho Tío Oswaldo. Y si aún estoy con usted me busca para volverle a dar un fuerte abrazo 🎄.
+
+        Gracias por brindarme un lugar en su casa en esta época navideña.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/c1c4y8H4/tia-adoracion.jpg",
+        "color_tema": "gold"
+    },
+
+    "carlos_1998-12-08": {
+        "carta_id": "carta19",
+        "destinatario": "Querido Carlos Manuel",
+        "fecha_nacimiento": "1998-12-08",
+        "titulo": "Querida Yo Mismo",
+        "contenido": """Querida Carlos Manuel,
+
+        🎅.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/c1c4y8H4/tia-adoracion.jpg",
+        "color_tema": "gold"
+    },
+
+    "lilisbeth_1963-09-09": {
+        "carta_id": "carta20",
+        "destinatario": "Lilisbeth",
+        "fecha_nacimiento": "1969-09-09",
+        "titulo": "Querida Lilisbeth",
+        "contenido": """Querida Lili,
+
+        Primero que nada, quiero darte las gracias por ser parte de mi familia y por hacerme padrino por primero vez. Me alegra ver lo mucho que han trabajo Daniel y tu para formar un hogar lleno de amor y felicidad tanto para Mathias como Andresito. 
+
+        Se que no es facil a veces convivir con Daniel. Si yo cuando duraba 2 días seguidos con el ya quería ahorcarlo. No puedo imaginar lo que es vivir con él día a día. Pero se que lo amas mucho y eso es lo que importa.
+
+        Eres una excelente madre y pareja. Y estoy seguro que seguirás siendo una gran influencia positiva en la vida de mis sobrinos. y como no, tambien en la de Daniel que es como si fuera un hijo más.
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones y salud.
+
+        Te mando un fuerte abrazo Lili, La quiero mucho, Feliz Navidad y prospero Año nuevo 🎅.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/TPdMc1my/Lilisbeth.jpg",
+        "color_tema": "gold"
+    },
+
+
+    "maximiliano_1963-09-09": {
+        "carta_id": "carta21",
+        "destinatario": "Maximiliano",
+        "fecha_nacimiento": "1969-09-09",
+        "titulo": "Querido Max",
+        "contenido": """Querido Max,
+
+        Quisiera comenzar expresandote mi cariño y aprecio. Desde que eras pequeño te he visto crecer y convertirte en la persona increíble que eres hoy. 
+
+        Desde cuando te cuide en mi casa, y no parabas de llorar, seguido de tus icónicos bailes extravagantes hasta la vez que nos recontramos en Maracay y jugamos futbol en la urbanización.
+
+        Eres una persona llena de cualidades y virtudes. Tu dedicación por querer ser el mejor en todo ya sea en futbol, call of dutty o cualquier juego que juguemos juntos es una barbaridad, tu pasión por conseguir tus metas es inspiradora.
+
+        Me alegra mucho ver la persona en la que te esta convirtiendo. Quisiera poder compartir contigo mucho más tiempo y experiencias juntos. Ya que siempre la he pasado muy bien cuando estas allí.
+
+        
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones y salud.
+        
+        Te mando un fuerte abrazo Max, Te quiero mucho, Feliz Navidad y prospero Año nuevo 🎅.
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/9Q3qz5Tj/Max.jpg",
+        "color_tema": "gold"
+    },
+
+    "obed_1963-09-09": {
+        "carta_id": "carta22",
+        "destinatario": "Obed",
+        "fecha_nacimiento": "1969-09-09",
+        "titulo": "Querido Obed",
+        "contenido": """Querido Obed,
+
+        Gordito, como siempre te he llamado en gran parte de tu niñez, aúnque ya de gordito no tienes nada. Solo los enormes cachetes. Eres una persona increíble, llena de amor y sentimientos únicos. Desde que eras pequeño todos adoraban tu ternura. Pero quienes te conociamos bien sabiamos lo travieso que podías ser
+        
+        Recuerdo cada vez que te cargué y jugaba contigo. Hasta la vez que nos reenccontramos en Maracay y finalmente pudimos compartir equipo de futbol juntos. contra Daniel y Max. Juguamos play station toda la noche y nos divertimos muchísimo. 
+
+        Agradezco mucho que seas parte de mi familia y seas una persona maravillosa, dedicada en sus estudios y sobresaliente. 
+
+        Quiero mandarte un abrazote, esperando podeer compartir contigo mucho más y te deseo que esta Navidad esté llena de alegría. Que recibas muchos regalos, pero sobretodo el amor y cariño de nuestros seres queridos y que el próximo año esté colmado de bendiciones y salud para que sigas disfrutando la vida al máximo.
+
+        Te quiero mucho gordito Obed, Feliz Navidad 🎅.
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/NG5DZXw4/Obed.jpg",
+        "color_tema": "gold"
+    },
+
+    "raquel_1995-11-07": {
+        "carta_id": "carta23",
+        "destinatario": "Raquel",
+        "fecha_nacimiento": "1995-11-07",
+        "titulo": "Querida Prima Raquel",
+        "contenido": """Querida Prima Raquel,
+
+        Recuerdo todas las anecdotas y momento que compartimos desde pequeños, las risas, las travesuras y las aventuras que vivimos juntos. Las vacaciones que compartiamos en casa de los abuelos en el Zulia, las idas a la playa, los años nuevos, las navidades. Son recuerdos que atesoro y valoro mucho.
+
+        Me alegra mucho ver la persona en la que te has convertido. Eres una mujer fuerte, inteligente y llena de vida. Tu dedicación y pasión por lo que haces es inspiradora.
+
+        Desde conocer el mundo y sus rincones y compartir con tus serres queridos momentos inolvidables.
+
+        Y hablando de momentos inolvidables, como en el que nos sorprendiste a toda la familia por la nueva vida que estabas formando junto a Ruben. Fue una noticia que nos llenó de alegría y emoción a todos.
+
+        Esperamos con ansias la llegada de ese nuevo miembro a la familia, y estamos seguros de que serás una madre increíble, llena de amor y dedicación.
+
+        Deseo que esta Navidad esté llena de alegría para tí, Ruben que le mandas un abrazo de mi parte, y el nuevo integrante de la familia. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia, mis mayores deseos para ustedes. Esperando nuevamente poder reencontrarnos y cualquier rincon del mundo y compartir nuevas aventuras y momenos inolvidables. Te quiero mucho Raquelita. Como siempre te decía cuando eramos niños.
+
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/MTgQqy3k/raquelita.jpg",
+        "color_tema": "gold"
+    },
+
+    "genarito_1993-07-23": {
+        "carta_id": "carta24",
+        "destinatario": "Genarito",
+        "fecha_nacimiento": "1993-07-23",
+        "titulo": "Querido Genarito",
+        "contenido": """Querido Genarito,
+
+        Desde que era pequeño siempre he admirado tu espíritu libre y aventurero. Tu valentía para seguir tus sueños y explorar el mundo es inspiradora. Siempre has sido una persona que no teme salir de su zona de confort y enfrentar nuevos desafíos con una sonrisa en el rostro.
+
+        Recuerdo con cariño todas las veces que hemos compartido en familia, de las risas, las aventuras y las historias que compartimos son recuerdos que nunca olvidaré.
+
+        Historias que van desde la gran sábana hasta Gran Vía. Siendo esta última la más reciente y nostalgica. Por volver a compartir en familia, un reencuentro especial.
+
+        Gracias por llevarnos a conocer, por comer esos exquisitos perros calientes y sobre todo por el cariño que nos brindaste tanto a Cris como a mí.
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia.        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/FHH2XcMh/genarito.jpg",
+        "color_tema": "gold"
+    },
+
+    "mariangel_2004-01-28": {
+        "carta_id": "carta25",
+        "destinatario": "Mariangel",
+        "fecha_nacimiento": "2004-01-28",
+        "titulo": "Querida Mariangel",
+        "contenido": """Querida prima Mariangel,
+
+        Recuerdo con mucho cariño estas fechas navideñas, ya que eran donde más compartiamos. Ya sea cuando ibas a casa de los abuelos o cuando yo iba a tu casa para siempre jugar y divertirnos juntos con mis primos. 
+
+        Me alegra mucho ver la persona en la que te has convertido y lo orgullosos que haces sentir a toda la familia. Eres una joven talentosa, inteligente y llena de vida.
+
+        Gracias por sacar tiempo y compartir con Cris y conmigo nuestro pequeño tiempo en Madrid, mostrándonos rincones nuevos y experiencias únicas. 
+
+        Se que no es fácil dejar el país y enfrentar nuevos desafíos, pero estoy seguro de que con tu determinación y perseverancia lograrás todo lo que te propongas. Como las metas que ya has conseguido hasta ahora.
+
+        Se que serás una excelente profesional y una persona maravillosa que iluminarás la vida de quienes te rodean, haciendo que tu propia vida sea gratificante. Sigue disfrutando la vida como lo haces, a tu manera con conciertos, rincones por conocer y nuevas experiencias.
+
+        Te mando mis mejores deseos para esta Navidad y el próximo año. Que esté lleno de alegría, amor y momentos inolvidables junto a tus seres queridos. Que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia. Te quiero mucho prima. 
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/Sx074pYk/mariangel.jpg",
+        "color_tema": "gold"
+    },
+
+    "angel_2010-12-14": {
+        "carta_id": "carta26",
+        "destinatario": "Angel David",
+        "fecha_nacimiento": "2010-12-14",
+        "titulo": "Querido Angel David",
+        "contenido": """Querido primo Angel David,
+
+        Fuiste quien me destronó y quitó el lugar del primo varon más pequeño de la familia. Recuerdo cuando eras un bebé y te cargaba de un lugar a otro o simplemente jugaba contigo hasta sacarte carcajadas.
+
+        En casa de los abuelos en el Zulia, era nuestro punto de encuentro juntos. Eras tan pequeño y travieso, siempre con una sonrisa en el rostro y esa energía contagiosa. 
+
+        Algo que nunca olvidare es como eras capaz de aprenderte todo el guion de la pelicula Cars de memoria y repetirlo una y otra vez. Hasta que todos en la familia lo sabíamos de tanto que lo escuchábamos de ti jajaja.
+
+        Me alegró reencontrarme contigo en Madrid y ver lo mucho que has crecido y lo increíble persona que eres. Quiero que nunca cambies esa energía y alegría que te caracteriza. Que tengas una navidad llena de amor, alegría y momentos inolvidables junto a tus seres queridos. Espero pronto volvernos a ver y compartir nuevas aventuras juntos. Te quiero mucho primo Angel David. 
+
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/QtCdFjrv/angel-david.jpg",
+        "color_tema": "gold"
+    },
+
+    "laura_2010-03-23": {
+        "carta_id": "carta27",
+        "destinatario": "Laurita",
+        "fecha_nacimiento": "2010-03-23",
+        "titulo": "Querida Laurita",
+        "contenido": """Querida prima Laurita,
+
+        Recuerdo cuando eras la más pequeña de la casa y de la familia y todos te consentíamos mucho. Siempre con esa sonrisa traviesa en el rostro. Corriendo de aquí para allá, en casa de los abuelos en el Zulia y mi abuela preguntando si alguna vez te quedarias quieta.
+
+        Ya el apodo Laurita se queda pequeño, ya no eres esa niña pequeña, sin embargo para mí y muchos de tus familiares siempre serás Laurita.
+
+        Hoy en día el tiempo ha pasado y te has convertido en una joven increíble, llena de talento, inteligencia y una personalidad única. Me alegró volver a verte en nuestra visita a Madrid y compartir nuevamente en familia.
+
+        No sabía que tenias un gran afecto por el picante la verdad eso es para valientes. Porque yo aún con 8 años aquí en México no he podido acostumbrarme a comer ni el más ligero de los picantes.
+
+        Te deseo en esta Navidad y los próximos años una vida de alegría, amor y momentos inolvidables junto a tus seres queridos. Bendiciones, salud, prosperidad y abundancia. Para ti y para los que te rodeen, para que puedan compartir todos juntos. Te quiero mucho prima.
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/vBk50qYk/laurita.jpg",
+        "color_tema": "gold"
+    },
+
+    "paola_2000-11-15": {
+        "carta_id": "carta28",
+        "destinatario": "Paola",
+        "fecha_nacimiento": "2000-11-15",
+        "titulo": "Querida Paola",
+        "contenido": """Querida prima Paola,
+
+        Los recuerdos de nuestra infancia juntos ahora que ya estamos grande los recuerdo con gracia porque cada vez que ibamos al zulia y salias con nosotros a jugar, correr y divertirnos juntos te sucedia algo, y teniamos que regresar a contar lo que te había pasado. 
+
+        No se si tenias una suerte increíble para los acontecimientos que te sucedian. Pero al final las risas no faltaban.
+
+        Me alegra mucho ver la persona en la que te has convertido. Eres una joven talentosa y llena de vida. Tu dedicación y pasión por lo que haces en el cuerpo de bomberos me alegra mucho. Una labor tan importante, honrada y valiosa para la sociedad.
+
+        Te mando mis mejores deseos para esta Navidad y el próximo año. Que esté lleno de alegría, amor y momentos inolvidables junto a tus seres queridos. Que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia. Te quiero mucho prima.
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/wB55Tckj/Paola.jpg",
+        "color_tema": "gold"
+    },
+
+    "orianna_2001-05-08": {
+        "carta_id": "carta29",
+        "destinatario": "Orianna",
+        "fecha_nacimiento": "2001-05-08",
+        "titulo": "Querida Ori",
+        "contenido": """Querida prima Ori,
+
+        Como bien sabes, tu y yo somos de pocas palabras para el uno y para el otro pero eso no significa que no te quiera o aprecie. Nuestra relación de primos hermanos siempre ha sido un amor-odio divertido.
+
+        Aunque de pequeños compartiamos casi todo el tiempo, desde que te quedabas semanas en nuestra casa, hasta acompañarnos en vacaciones en el Zulia, La gran sábana, higuerote, entre muchos lugares a los hemos viajado y compartido. Donde siempre había momentos de risas y travesuras.
+
+        Capaz nunca te lo he dicho pero me alegra ver la persona en la que has crecido con respecto a tus estudios y lo dedicada que eres. Estoy seguro de que lograrás todo lo que te propongas en la vida.
+
+        Con respecto a tu caracter tan fuerte y explosivo, es algo que creo no se puede cambiar jejeje. Pero es parte de lo que te define. Espero que esta Navidad esté llena de alegría para ti y tus seres queridos. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia. Te quiero mucho prima.
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/X7dD62cy/Ori.jpg",
+        "color_tema": "gold"
+    }, 
+
+    "oswaldo_2013-05-10": {
+        "carta_id": "carta30",
+        "destinatario": "Oswaldo",
+        "fecha_nacimiento": "2011-05-10",
+        "titulo": "Querido Kike",
+        "contenido": """Querido primo Kike,
+
+        Recuerdo cuando eras apenas un bebé y te cargaba y cuidaba ya sea en tu casa en caracas o cuando nos visitabas a maracay. Eras el bebé más consentido del momento.
+
+        Aúnque de eso ya han pasado varios años. Te nos fuiste a Costa Rica y has crecido convertido en una persona muy inteligente, apasionada por el futbol, Aúnque creo que eso es de todos los Hernández. Porque no hay ninguno en nuestra familia que no le guste o no lo juegue (Exceptuando a nuestro bro Cesar).
+
+        Me alegra mucho ver en el hombre que te estas convirtiendo, una persona de bien. Pero siempre hay que ser mejor y dar lo mejor de uno, en todos los ambitos de la vida. 
+
+        Se que lograras las cosas y metas que te propongas en la vida porque eres una persona dedicada. En el poco tiempo que hemos compartido y te he visto me alegra tu compañía. 
+
+        Por eso mismo quiero desearte una feliz navidad y un próspero año nuevo. Darte un gran abrazo y poder compartir más tiempo juntos en el futuro. Te quiero mucho primo Kike. Si aún lees esta carta conmigo estando cerca de mí, no dudes en darme un fuerte abrazo.
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/N0FTQBJn/kike.jpg",
+        "color_tema": "gold"
+    },
+
+    "Emiliano_2003-09-13": {
+        "carta_id": "carta31",
+        "destinatario": "Emiliano",
+        "fecha_nacimiento": "2003-09-13",
+        "titulo": "Querido Emiliano",
+        "contenido": """Querido Emiliano,
+
+        Desde que te conocí te me hiciste una persona super chevere, Aúnque claramente la primera vez que nos vimos no fue el mejor de los días (Muerte de lunita). Sin embargo, hay un dicho que dice que cuando quieres que algo nuevo entre a tu vida, debes dejar ir algo. 
+
+        Desde entonces hemos compartido aventuras, equipos futbol, idas a la playa. Y espero verdaremente que no sean las únicas, que aún queden muchas más por venir. Me alegra lo feliz que haces a mi hermana y lo detallista que eres. Es una cualidad que la verdad admito poco hombres tenemos. Tambien la paciencia, porque se que lidiar a veces con Nathy no es sencillo. Sin embargo, se que la quieres mucho y eso es lo que importa.
+
+        Otra de las cosas de las que estoy seguro es que llegaras muy lejos, tu ambición y dedicación te llevarán a cumplir todos tus sueños y metas en la vida. 
+
+        Antes de desearte una feliz navidad y un próspero año nuevo, quiero agradecerte por ser parte de nuestra familia y por hacerla más feliz, Y como no, con cada anecdota que nos llegan de sus aventuras, espero que las de ahora en adelante sean todas en pro de lo bueno y llenas de disfrute. Te mando un fuerte abrazo Emiliano, Te quiero mucho, Feliz Navidad y prospero Año nuevo 🎅.
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/4d9qYC2Z/Emiliano.jpg",
+        "color_tema": "gold"
+    },
+
+    "Daniel_1996-10-31": {
+        "carta_id": "carta32",
+        "destinatario": "Daniel",
+        "fecha_nacimiento": "1996-10-31",
+        "titulo": "Querido Daniel",
+        "contenido": """Querido Hermano Daniel,
+
+        Que puedo decir de ti que no sepas ya. Eres una persona increíble, llena de cualidades y virtudes que admiro profundamente. Tu dedicación, tu pasión por lo que haces y tu amor por la familia son solo algunas de las cosas que te hacen especial.
+
+        Recuerdo con cariño todas las veces que hemos compartido juntos, desde nuestras aventuras en la infancia hasta los momentos más recientes. Cada experiencia, cada risa y cada desafío que hemos enfrentado juntos han fortalecido nuestro vínculo como hermanos.
+
+        Eres el hermano, el hijo, el sobrino, el nieto y el padre que todos admiramos. Tu capacidad para resolver cualquier problema y tu forma de hacer reír a todos, incluso en los momentos difíciles, es un regalo que valoramos más que cualquier cosa material.
+
+        Desde orticeño hasta Amazonas, hemos compartido tantas aventuras juntos que han dejado una huella imborrable en mi corazón. Cada viaje, cada experiencia y cada momento que hemos vivido juntos son recuerdos que atesoro profundamente.
+
+        Aún sigo siendo el segundo en el futbol, porque aún no he podido ganarte ni una sola vez. Pero sé que algún día lo lograré. Como te he dicho ultimamente "el tiempo esta a mi favor". Aún así aunque nos enfrentemos con todo nuestro ser, disfruto mucho esas partidas contigo. Espero ya pronto volver a verte para mi revancha, y compartir juntos nuevamente.
+
+        Deseo que esta Navidad esté llena de alegría. Que la magia de esta temporada le traiga paz y felicidad, y que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia mi hermano querido. Se que encontraras la felicidad plena junto a Lili y tus hijos. 
+
+        Te deseo lo mejor de esta vida siempre. Así como tu has estado para mí cuando te he necesitado.
+
+        Te amo mucho hermano 🎁, Feliz navidad!!!
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/6Q7JsbRG/Daniel.jpg",
+        "color_tema": "gold"
+    },
+
+    "Cesar_1998-01-08": {
+        "carta_id": "carta33",
+        "destinatario": "Cesar",
+        "fecha_nacimiento": "1998-01-08",
+        "titulo": "Querido Cesar",
+        "contenido": """Querido Hermano Cesar,
+
+        Quisiera comenzar esta carta expresando que para mí eres mucho más que un hermano. Eres un amigo leal, un confidente, mi maestro, mentor, socio, colega, una persona en la que siempre puedo confiar, y la lista puede extenderse. A lo largo de los años, hemos compartido innumerables momentos juntos, desde nuestras travesuras de infancia hasta nuestras aventuras más recientes.
+
+        Cada uno de los momentos que hemos vivido juntos los atesoro profundamente. Sobretodo en estas épocas decembrinas. Donde siempre pasabamos navidades en familia, compartiendo risas, historias y creando recuerdos inolvidables.
+
+        Aúnque la distancia nos haya separado en estas fechas. Siempre estás en mis pensamientos y en mi corazón. Y no solo en navidad, sino gran parte del año. Sobretodo cuando hablamos horas sin una razón especifica. Jugamos videojuegos, compartimos anécdotas y simplemente mandarnos Snaps. 
+
+        Eres una persona increible con cualidades envidiables en el buen sentido, tu sabiduría para afrontar cualquier circunstancia, improvisación para resolver cualquier situación y salir victorioso, tu sentido del humor y tu capacidad para hacer reír a los demás son cualidades que admiro profundamente. 
+
+        Sin embargo, lo que más aprecio de tí, es que eres parte de mi familia. Porque tanto yo, como cada uno de los que te rodean son afortunados de tenerte en sus vidas. Por eso así como siempre nos mencionas a tus allegados, eres EL ELEGIDO. 
+
+        El elegido en compartir tus bondades con el mundo y tus seres queridos. El elegido en ser un hermano ejemplar, un hijo/sobrino amoroso, un tío dedicado y un amigo incondicional.
+
+        Así que mi hermano querido, en esta Navidad quiero desearte todo lo mejor que la vida pueda ofrecerte. Que esta temporada esté llena de alegría, amor y momentos inolvidables junto a tus seres queridos. Que el próximo año esté colmado de bendiciones, salud, prosperidad y abundancia.
+
+        No se cuando leeras esta carta, si cuando estemos juntos o tiempo después. Pero quiero que sepas que te amo mucho hermano. Y si aún estoy contigo en este momento, no dudes en darme un fuerte abrazo. Feliz Navidad 🎁.
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/pdG2tnpt/Cesar.jpg",
+        "color_tema": "gold"
+    },
+
+    "Nathaly_2002-05-26": {
+        "carta_id": "carta34",
+        "destinatario": "Nathaly",
+        "fecha_nacimiento": "2002-05-26",
+        "titulo": "Querida Nathy",
+        "contenido": """Querida Nathy,
+
+        
+
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/pdG2tnpt/Cesar.jpg",
+        "color_tema": "gold"
+    },
 }
 
 """Eres el hermano, el hijo, el tío que todos admiramos. Tu capacidad para resolver cualquier problema y tu forma de hacer reír a todos, incluso en los momentos difíciles, es un regalo que valoramos más que cualquier cosa material.
