@@ -383,10 +383,10 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "oswaldo_1960-09-09": {
+    "oswaldo_1969-04-03": {
         "carta_id": "carta18",
         "destinatario": "Tío Oswaldo",
-        "fecha_nacimiento": "1969-09-09",
+        "fecha_nacimiento": "1969-04-03",
         "titulo": "Querido Tío Oswaldo",
         "contenido": """Querido Tío Oswaldo,
 
@@ -425,10 +425,10 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "lilisbeth_1963-09-09": {
+    "lilisbeth_1995-02-23": {
         "carta_id": "carta20",
         "destinatario": "Lilisbeth",
-        "fecha_nacimiento": "1969-09-09",
+        "fecha_nacimiento": "1995-02-23",
         "titulo": "Querida Lilisbeth",
         "contenido": """Querida Lili,
 
@@ -449,10 +449,10 @@ CARTAS_FAMILIARES = {
     },
 
 
-    "maximiliano_1963-09-09": {
+    "maximiliano_2010-11-01": {
         "carta_id": "carta21",
         "destinatario": "Maximiliano",
-        "fecha_nacimiento": "1969-09-09",
+        "fecha_nacimiento": "2010-11-01",
         "titulo": "Querido Max",
         "contenido": """Querido Max,
 
@@ -474,10 +474,10 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "obed_1963-09-09": {
+    "obed_2014-06-28": {
         "carta_id": "carta22",
         "destinatario": "Obed",
-        "fecha_nacimiento": "1969-09-09",
+        "fecha_nacimiento": "2014-06-28",
         "titulo": "Querido Obed",
         "contenido": """Querido Obed,
 
@@ -655,10 +655,10 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     }, 
 
-    "oswaldo_2013-05-10": {
+    "oswaldo_2012-05-10": {
         "carta_id": "carta30",
         "destinatario": "Oswaldo",
-        "fecha_nacimiento": "2013-05-10",
+        "fecha_nacimiento": "2012-05-10",
         "titulo": "Querido Kike",
         "contenido": """Querido primo Kike,
 
@@ -678,10 +678,10 @@ CARTAS_FAMILIARES = {
         "color_tema": "gold"
     },
 
-    "emiliano_2003-09-13": {
+    "emiliano_2002-09-30": {
         "carta_id": "carta31",
         "destinatario": "Emiliano",
-        "fecha_nacimiento": "2003-09-13",
+        "fecha_nacimiento": "2002-09-30",
         "titulo": "Querido Emiliano",
         "contenido": """Querido Emiliano,
 
@@ -806,6 +806,122 @@ CARTAS_FAMILIARES = {
         """,
         "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
         "imagen_carta": "https://i.postimg.cc/zvBLw16h/zelena.jpg",
+        "color_tema": "gold"
+    },
+    
+    "carlos_1970-06-21": {
+        "carta_id": "carta36",
+        "destinatario": "Carlos",
+        "fecha_nacimiento": "1970-06-21",
+        "titulo": "Querido Papá",
+        "contenido": """Querido Papá,
+
+        Quiero comenzar esta carta exprensadote que eres el mejor padre que un hijo puede tener, desde pequeño me has inculcado tantos valores, que hoy agradezco tener. Desde pequeño me has cuidado, cobijado, ayudado y siempre has estado allí para mí en cada momento o situación de mi vida.
+
+        Eres uno de mis pilares y no hay palabra, carta o acción que retribuya todo lo que a lo largo de los años has hecho por mí. Quiero agreadecerte por enseñarme que la vida hay que disfrutarla, con humor, sirviendo a los demás con amor. 
+
+        Se que a veces eres un poco gruñon, pero no pasa nada, son cosas normales. Ya la edad no pasa en vano. Sin embargo, siempre he admirado tu espiritu jovial, tus ganas de querer siempre estar en movimiento, de salir, de disfrutar. Y vaya que lo has hecho bien.
+
+        Algo que nunca te he dicho, porque en persona soy a veces penoso. Es que desde que emigramos. Dejaste todo lo que habíamos construido en el páis, saliste de la zona de confort, empezaste de cero en un país desconocido, realizando lo que hiciera falta para volver a ir progresando y lo has hecho por tu familia, por nosotros tus hijos, por mi mamá. Y eso me enorgullese profundamente. Has mostrado tu resiliencia y aunque no se si alguien más te lo haya dicho. Estoy muy feliz y eternamente agredecido por todo lo que has hecho por nosotros.
+
+        Es nuestra primera navidad lejos el uno del otro. Aún así quiero que pases una bella navidad. Mi amor por ti siempre será gigante y crece cada día más. Que cada uno de los deseos que pidas se cumplan y aún así te mando muchas bendiciones, abundancia, felicidad y sobretodo salud para poder seguir compartiendo contigo momentos inolvidables. Y tambien que tengas un próspero año nuevo 2026 y sigas cumpliendo aquello que anhelas. 
+
+        Te amo mucho Papá Feliz Navidad.
+
+        Posdata: Tus regalos son el #1. Feliz Navidad 🎁.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/L8XPhKQ6/papa.jpg",
+        "color_tema": "gold"
+    },
+
+    "constanza_1975-10-28": {
+        "carta_id": "carta37",
+        "destinatario": "Constanza",
+        "fecha_nacimiento": "1975-10-28",
+        "titulo": "Querida Mamá",
+        "contenido": """Querida Madre,
+
+        Eres una de las mujer más increible que conozco. Eres uno de los pilares de mi vida. No existe una forma de atribuirte todo lo que has hecho por mí y me has brindado. Desde que solo era un niño, hasta la actualidad, con todos tus consejos, tus recomendaciones, tus acciones llenas de pura bondad y hechas con amor. Sé que las gracias quedarían cortas, para tan maravillosa labor y compromiso que has tenido conmigo y nuestra familia.
+
+        Gracias por todo lo que me has enseñado, tu determinación, constancia, sabiduría, son algunos de lo valores que si hoy tengo son gracias a que tú me los has inculcado. Se que, desde pequeña te has ganado la vida a base de tu esfuerzo y eso hasta el día de no ha cambiado.
+
+        Por el simple hecho de tomar la decisión de acompañarme en la aventura de ser los primeros de la familia en dejar el país en busca de nuevos rumbos. Todo por querer seguir adelante, darnos a mi hermana y a mí un mejor estilo de vida, y que pudieramos nosotros mismos desenvolvernos de una mejor manera.
+        
+        Se que nunca te lo he dicho. Pero gracias Mamá por ser tan valiente. Por afrontar las situaciones de frente y salir victoriosa. Estoy muy orgulloso de todo lo que has logrado en tu vida. Pero sobretodo estoy mucho más feliz y orgulloso de que seas mi madre. Porque como tu no existe una igual. 
+
+        Y que sepas que cada uno de mis éxitos, se deben en gran parte a todo lo que me han inculcado tanto tu como mi papá. Ya que siempre han sido fundamentales en mi vida 
+
+        Aunque estemos lejos esta navidad, nunca olvides lo mucho que TE AMO. Que la disfrutes esta época decembrina como siempre lo has hecho. Que sigas cumpliendo cada viaje, aventura, sueño, meta que te propongas en la vida y espero estar junto a ti compartiendolo. Te mando mis mejores deseos Felicidad, Abundancia, Paz y mucha salud para seguir compartiendo contigo cada momento de mi vida. 
+
+        TE AMO MUCHO MAMÁ, Feliz Navidad.
+
+        Posdata: Tu regalo es el #2. Feliz Navidad 🎁.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/CMksVgX2/mama.jpg",
+        "color_tema": "gold"
+    },
+
+    "maria_2002-07-24": {
+        "carta_id": "carta38",
+        "destinatario": "María Cristina",
+        "fecha_nacimiento": "2002-07-24",
+        "titulo": "Querida Cris",
+        "contenido": """Querida Amorcito,
+
+        
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/zvBLw16h/.jpg",
+        "color_tema": "gold"
+    },
+
+    "ericka_1982-11-24": {
+        "carta_id": "carta39",
+        "destinatario": "Ericka",
+        "fecha_nacimiento": "1982-11-24",
+        "titulo": "Querida Mamá",
+        "contenido": """Querida Negra bella,
+
+        Buenas noches mamita. 
+        Quiero recordarte varías cosas y decirte también cosas nuevas y aclarar unas y recordad lo mucho que te admiro y te amo.
+        Primero que nada quiero desearte una feliz navidad y año nuevo, esperó que estas fechas tan importantes te la pases de lo más felíz, yo sé que a ti no te gusta la navidad por qué en una navidad se nos destruyó todo y te entiendo de verdad y me duele a mi también recordar esa navidad, Pero sabes algo mami hay que aprender a soltar el pasado y recibir el presenté.
+
+        Comúnmente no te digo esto pero estoy muy agradecida y orgullosa por lo que has hecho por nosotros no sabes cómo estoy agradecida por lo que has echo por nosotros.
+
+        Y también agradecerte por soportarme por todo lo que hecho y logrado, sin ti no podría.
+        Mami bella de verdad quiero que disfrutes estás fechas y que te gusten y crees nuevos recuerdos felices.
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/FHM06CG1/ericka.jpg",
+        "color_tema": "gold"
+    },
+
+    "martin_2004-07-15": {
+        "carta_id": "carta40",
+        "destinatario": "Martin",
+        "fecha_nacimiento": "2004-07-15",
+        "titulo": "Querido Martin",
+        "contenido": """Querido Martin,
+
+        Hermanito 
+        Te deseo una feliz navidad y feliz año nuevo.
+        Y a decirte que gracias por haber llegado a mi vida y ser el "hermano mejor" y cuidarte y vivir y crear momentos bonitos, se que no todos los recuerdos felices, pero se que has sabido salir a delante y ser la gran persona que eres y de verdad que estoy orgullosa de tí y verte crecer tan rápido me llena de felicidad y a la vez quiero que regrese ese niño chiquito que se ponía a vender pulseras con su hermana o destrababa mis muñecas porque quería jugar las luchas.
+
+        Te amo mucho hermanito y gracias por estar en cada momento en mi vida.
+        Y siempre estaré para apoyarte en lo que quieras y sobre todo verte lograr tus objetivos y metas.
+
+        Feliz navidad y feliz año nuevo
+        Te amo mucho hermanito 🎁
+        
+        """,
+        "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
+        "imagen_carta": "https://i.postimg.cc/Jn1HwfXV/martin.jpg",
         "color_tema": "gold"
     },
 }
