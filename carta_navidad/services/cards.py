@@ -872,11 +872,22 @@ CARTAS_FAMILIARES = {
         "titulo": "Querida Cris",
         "contenido": """Querida Amorcito,
 
+        Desde que llegaste a mí vida, has sido una presencia increíble. Tu amor, tu apoyo y tu cariño han sido fundamentales para mí. Eres una persona que siempre está ahí para apoyarme y animarme a seguir adelante, sin importar las circunstancias.
+
+        Hoy en día encontrar personas como tú en la vida es un regalo. y estoy seguro que me toco el mejor de todos, porque tu eres quien ha mejorado mi vida en cada aspecto. Eres una persona que siempre me ha enseñado a ser más fuerte, más resiliente y claro que si, mucho más paciente. 
+
+        Tu compañía es de lo que más disfruto de mis días. Poder reir, bromear, jugar, viajar, bailar, conocer, aprender y crecer juntos han sido momentos inolvidables. Que espero seguir haciendo a tu lado y que estemos el uno para el otro siempre.
+
+        Te doy las gracias por todo lo que has hecho por mí, por tus bondades, tus detalles, tu cariño y tu amor incondicional. Por sobreponerme en muchas ocasiones. y se que puedo ser un poco dificíl a veces, pero nunca con alguna mala intención o con el motivo de hacerte daño. Por eso mismo, tambien te doy las gracias por tu paciencia y comprensión hacía mí.
+
+        Gracias igualmente por querer venir a pasar navidades conmigo, lejos de nuestros familiares. Aunque no siempre sea fácil, siempre me siento agradecido de tener la oportunidad de compartir estas fechas tan especiales contigo. 
+        
+        Te amo mucho mi pequeña hermosa. Eres lo mejor que tengo en mi vida. Y no me cansaré de demostrarlo. Porque al final, tambien importa lo que se hace y como se hace. Te amo mucho amorcito 🎁, Feliz Navidad.
         
         
         """,
         "imagen_fondo": "https://images.unsplash.com/photo-1544531026-d9b0f4d6b361",
-        "imagen_carta": "https://i.postimg.cc/zvBLw16h/.jpg",
+        "imagen_carta": "https://i.postimg.cc/wvrsSyCT/cristina.jpg",
         "color_tema": "gold"
     },
 
